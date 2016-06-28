@@ -69,12 +69,9 @@ dependencies {
      3.1.0 修复在三星手机拍照旋转导致获取图片失败的bug
      3.1.1 修复一些异常
 
-###Thanks
-  * [Glide](https://github.com/bumptech/glide) A powerful image downloading and caching library for Android
-  * [uCrop ](https://github.com/Yalantis/uCrop) 感谢uCrop 作者,当前库的剪裁采用uCrop
 
 ##Developed By
-#####wqandroid@gmail.com
+#####953262712@qq.com
 ####sinaweibo *[ios_android技术宅拯救世界](http://weibo.com/2407182217/profile?rightmod=1&wvr=6&mod=personinfo) 
 ##License
 
