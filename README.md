@@ -14,7 +14,7 @@
 
 ##Developed By
 #####953262712@qq.com
-####sinaweibo *[ios_android技术宅拯救世界](http://weibo.com/2407182217/profile?rightmod=1&wvr=6&mod=personinfo) 
+
 ##License
 
     Copyright 2013 Andreas Stuetz
